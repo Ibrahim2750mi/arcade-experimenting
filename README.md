@@ -1,4 +1,4 @@
-# arcade-gui-experimenting
+# Arcade-experimenting
 Made for experimenting with new arcade gui widgets or making one.
 
 
